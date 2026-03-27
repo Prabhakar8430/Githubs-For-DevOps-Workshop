@@ -53,6 +53,7 @@ clear
    clear
    git status
    ls
+This is my first project
    clear
    git status
    git status
