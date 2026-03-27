@@ -1,0 +1,60 @@
+ ls
+ls -l
+clear
+git init
+ls
+clear
+dir -l
+clear
+  ls - dir
+   clear
+   git status
+   dir
+   clear
+   git status
+   clear
+   git status
+   git add testing.py
+   git status
+   git rm --cached
+   git status
+   git rm --cached
+   git rm--cached
+   git rm --cached
+   git rm --cached testing.py
+   git status
+   git add testing.py
+   git status
+   git commit -m "Added tesing files"
+   git status
+   rm testing.py
+   ls
+   dir
+   git status
+   git restore testing.py
+   git status
+   clear
+   history
+   git status
+   git add git_commands.txt
+   git status
+   git commit -m "Added git commands"
+   git status
+   clear
+   git remote add origin https://github.com/Prabhakar8430/Githubs-For-DevOps-Workshop.git      
+   git remote -v
+   git status
+   git remote set-url origin 
+   git remote -v
+   git push origin master
+   clear
+  history
+   git status
+   clear
+   git status
+   ls
+   clear
+   git status
+   git status
+   added files
+   added new commands
